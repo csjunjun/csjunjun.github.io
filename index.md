@@ -1,93 +1,56 @@
 ---
-title: About Alembic
+title: About Jun Liu
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  ## 
+  I know we can do
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+I am is currently a Postdoctoral Researcher at the [Echizen Lab](https://research.nii.ac.jp/~iechizen/official/index-e.html), National Institute of Informatics (NII). I received my Ph.D. degree from the [State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/) of University of Macau, under the supervision of Prof. Jiantao Zhou. My primary research interests include adversarial attack methods and privacy-preserving technologies, as well as security and privacy issues across various areas of artificial intelligence.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+I obtained both my B.S. and M.S. degrees in Software Engineering from Beihang University. After completing my master’s degree, I worked for two years at Tencent Shenzhen, where I focused on data analysis and machine learning modeling for financial risk control.
 
-## Features
+Researchers and students who are interested in my research topics are very welcome to get in touch for discussion and collaboration.
 
-- Available as a **theme gem** and **GitHub Pages** theme
-- Clear and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
 
-## Examples
+{% include button.html text="GitHub" icon="github" link="https://github.com/csjunjun" color="#0366d6" %} {% include button.html text="LinkedIn" link="https://www.linkedin.com/in/%E9%9A%BD-%E5%88%98-a442a2b7/" color="#f68140" %} {% include button.html text="Email" icon="email" link="mailto:junlwind@163.com" color="#0d94e7" %} 
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+## Publications
 
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
+- **J. Liu**, [L. Y. Zhang](https://leozhangcs.github.io/), F. Li, [I. Echizen](https://research.nii.ac.jp/~iechizen/official/members_echizen-e.html), [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/). [Gradient Structure Estimation under Label-Only Oracles via Spectral Sensitivity. Arxiv](https://arxiv.org/abs/2601.14300)
+- **J. Liu**, [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [J. Zeng](https://zengjiandian.github.io/), [J. Tian](https://jinyutian.github.io/), Z. Li. [DifAttack++: Query-Efficient Black-Box Adversarial Attack via Hierarchical Disentangled Feature Space in Cross-Domain. Arxiv](https://arxiv.org/abs/2406.03017)
+- **J. Liu**, [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [J. Zeng](https://zengjiandian.github.io/), [J. Tian](https://jinyutian.github.io/). [Difattack: Query-efficient black-box adversarial attack via disentangled feature space](https://ojs.aaai.org/index.php/AAAI/article/view/28156). **AAAI** 2024.
+- **J. Liu**, [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [J. Tian](https://jinyutian.github.io/), W. Sun. [Recoverable privacy-preserving image classification through noise-like adversarial examples](https://dl.acm.org/doi/10.1145/3653676). **ACM TOMM** 2024.
+- **J. Liu**, [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [H. Wu](https://faculty.uestc.edu.cn/wuhaiwei/en/index.htm), W. Sun, [J. Tian](https://jinyutian.github.io/). [Generating robust adversarial examples against online social networks (osns)](https://dl.acm.org/doi/10.1145/3632528). **ACM TOMM** 2024.
+- [H. Wu](https://faculty.uestc.edu.cn/wuhaiwei/en/index.htm), [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [J. Tian](https://jinyutian.github.io/), **J. Liu**, [Y. Qiao](https://mmlab.siat.ac.cn/yuqiao/). [Robust image forgery detection against transmission over online social networks](https://ieeexplore.ieee.org/document/9686650/). **IEEE TIFS** 2022.
+- [H. Wu](https://faculty.uestc.edu.cn/wuhaiwei/en/index.htm), [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [J. Tian](https://jinyutian.github.io/), **J. Liu**. [Robust image forgery detection over online social network shared images](https://ieeexplore.ieee.org/document/9879161). **CVPR** 2022.
+- W. Sun, [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [L. Dong](https://nbudongli.github.io/), [J. Tian](https://jinyutian.github.io/), **J. Liu**. [Optimal pre-filtering for improving Facebook shared images] (https://ieeexplore.ieee.org/document/9477083). **IEEE TIP** 2021. 
 
-## Installation
 
-### Quick setup
+## Academic Service
+### Journals
+- IEEE Transactions on Information Forensics and Security. (TIFS)
+- IEEE Transactions on Image Processing. (TIP)
+- IEEE Transactions on Dependable and Secure Computing. (TDSC)
+- IEEE Transactions on Neural Networks and Learning Systems. (TNNLS)
+- IEEE Transactions on Circuits and Systems for Video Technology. (TCSVT)
+- IEEE Transactions on Industrial Informatics. (TII)
 
-To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
+### Conferences
 
-- ⚗️🍨 Vanilla Jekyll starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
-- ⚗️🌲 Forestry starter kit  
-  [![Deploy to Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=daviddarnes/alembic-forestry-kit&engine=jekyll){:style="background: none"}  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-forestry-kit){:style="background: none"}
-- ⚗️💠 Netlify CMS starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-netlifycms-kit&stack=cms){:style="background: none"}
+- IEEE Conference on Computer Vision and Pattern Recognition. (CVPR)
+- European Conference on Computer Vision. (ECCV)
+- ACM International Conference on Multimedia. (ACM MM)
+- The Association for the Advancement of Artificial Intelligence (AAAI)
 
-- ⚗️:octocat: GitHub Pages with remote theme kit  
-  {% include button.html text="Download kit" link="https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip" color="#24292e" %}
-- ⚗️🚀 Stackbit starter kit  
-  [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/daviddarnes/alembic-stackbit-kit){:style="background: none"}
+## Hobbies
 
-### As a Jekyll theme
-
-1. Add `gem "alembic-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the theme and its dependancies
-3. Add `theme: alembic-jekyll-theme` to your `_config.yml` file to set the site theme
-4. Run `bundle exec jekyll serve` to build and serve your site
-5. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-### As a GitHub Pages remote theme
-
-1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-3. Add `jekyll-remote-theme` to the list of `plugins` in your `_config.yml` file
-4. Add `remote_theme: daviddarnes/alembic@main` to your `_config.yml` file to set the site theme
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-### As a Boilerplate / Fork
-
-_(deprecated, not recommended)_
-
-1. [Fork the repo](https://github.com/daviddarnes/alembic#fork-destination-box)
-2. Replace the `Gemfile` with one stating all the gems used in your project
-3. Delete the following unnecessary files/folders: `.github`, `LICENSE`, `screenshot.png`, `CNAME` and `alembic-jekyll-theme.gemspec`
-4. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-## Customising
-
-When using Alembic as a theme means you can take advantage of the file overriding method. This allows you to overwrite any file in this theme with your own custom file, by matching the file name and path. The most common example of this would be if you want to add your own styles or change the core style settings.
-
-To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/alembic/blob/master/assets/styles.scss) into your own project with the same file path (`assets/styles.scss`). From there you can add your own styles, you can even optionally ignore the theme styles by removing the `@import "alembic";` line.
-
-If you're looking to set your own colours and fonts you can overwrite them by matching the variable names from the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
+- Watching movies
+- Yoga
+- Running and swimming
+- Playing table tennis
+- Playing the guzheng
+- Cooking
+- Strolling around
+- Many more
