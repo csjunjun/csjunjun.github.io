@@ -23,7 +23,7 @@ Researchers and students who are interested in my research topics are very welco
 - **J. Liu**, [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [J. Tian](https://jinyutian.github.io/), W. Sun. [Recoverable privacy-preserving image classification through noise-like adversarial examples](https://dl.acm.org/doi/10.1145/3653676). **ACM TOMM** 2024.
 - **J. Liu**, [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [H. Wu](https://faculty.uestc.edu.cn/wuhaiwei/en/index.htm), W. Sun, [J. Tian](https://jinyutian.github.io/). [Generating robust adversarial examples against online social networks (osns)](https://dl.acm.org/doi/10.1145/3632528). **ACM TOMM** 2024.
 - [H. Wu](https://faculty.uestc.edu.cn/wuhaiwei/en/index.htm), [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [J. Tian](https://jinyutian.github.io/), **J. Liu**, [Y. Qiao](https://mmlab.siat.ac.cn/yuqiao/). [Robust image forgery detection against transmission over online social networks](https://ieeexplore.ieee.org/document/9686650/). **IEEE TIFS** 2022.
-- [H. Wu](https://faculty.uestc.edu.cn/wuhaiwei/en/index.htm), [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [J. Tian](https://jinyutian.github.io/), **J. Liu**. [Robust image forgery detection over online social network shared images](https://ieeexplore.ieee.org/document/9879161). **CVPR** 2022.
+- [H. Wu](https://faculty.uestc.edu.cn/wuhaiwei/en/index.htm), [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [J. Tian](https://jinyutian.github.io/), **J. Liu**. [Robust image forgery detection over online social network shared images](https://ieeexplore.ieee.org/document/9879161). **CVPR Oral** 2022.
 - W. Sun, [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [L. Dong](https://nbudongli.github.io/), [J. Tian](https://jinyutian.github.io/), **J. Liu**. [Optimal pre-filtering for improving Facebook shared images.](https://ieeexplore.ieee.org/document/9477083) **IEEE TIP** 2021. 
 
 
@@ -42,6 +42,20 @@ Researchers and students who are interested in my research topics are very welco
 - European Conference on Computer Vision. (ECCV)
 - ACM International Conference on Multimedia. (ACM MM)
 - The Association for the Advancement of Artificial Intelligence (AAAI)
+
+
+## Rewards
+- 2022. H. Wu, J. Zhou, **J. Liu**, W. Sun. Championship in Forgery Detection Competition, 1/1561, Participant, Security AI Challenger, hosted by Alibaba and Tsinghua University. 
+- 2022. **J. Liu**, ..., The Fourth Place, in Challenge of Targeted Adversarial Attacks against Face recognition, hosted by China Society of Image and Graphics.
+- 2020-2025. The UM Macao PhD Scholarship, University of Macau. 
+- 2018. Outstanding Employee of Graduate Closed Training, Tencent.
+- 2015\&2018. Outstanding Graduate, Beihang University.
+- 2015. Excellent Student Cadres, Beihang University.
+- 2014. National Scholarship, Beihang University.
+- 2014. Second Prize in the 24th “Feng Ru Cup” Competition of Academic and Technological Works}, Beihang University.
+- 2013-2016. First Prize Academic Award, Beihang University.
+- 2011\&2013. Merit Student, Beihang University.
+
 
 ## Hobbies
 
