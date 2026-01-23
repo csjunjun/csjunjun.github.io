@@ -163,4 +163,5 @@ fonts:
 
 
 # add by jun 
-theme: alembic-jekyll-theme
+#theme: alembic-jekyll-theme
+theme: jekyll-theme-cayman
