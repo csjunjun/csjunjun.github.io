@@ -45,16 +45,16 @@ Researchers and students who are interested in my research topics are very welco
 
 
 ## Rewards
-- 2022. H. Wu, J. Zhou, **J. Liu**, W. Sun. Championship in Forgery Detection Competition, 1/1561, Participant, Security AI Challenger, hosted by Alibaba and Tsinghua University. 
-- 2022. **J. Liu**, ..., The Fourth Place, in Challenge of Targeted Adversarial Attacks against Face recognition, hosted by China Society of Image and Graphics.
-- 2020-2025. The UM Macao PhD Scholarship, University of Macau. 
-- 2018. Outstanding Employee of Graduate Closed Training, Tencent.
-- 2015\&2018. Outstanding Graduate, Beihang University.
-- 2015. Excellent Student Cadres, Beihang University.
-- 2014. National Scholarship, Beihang University.
-- 2014. Second Prize in the 24th “Feng Ru Cup” Competition of Academic and Technological Works}, Beihang University.
-- 2013-2016. First Prize Academic Award, Beihang University.
-- 2011\&2013. Merit Student, Beihang University.
+- 2022 H. Wu, J. Zhou, **J. Liu**, W. Sun. Championship in Forgery Detection Competition, 1/1561, Participant, Security AI Challenger, hosted by Alibaba and Tsinghua University. 
+- 2022 **J. Liu**, ..., The Fourth Place, in Challenge of Targeted Adversarial Attacks against Face recognition, hosted by China Society of Image and Graphics.
+- 2020-2025 The UM Macao PhD Scholarship, University of Macau. 
+- 2018 Outstanding Employee of Graduate Closed Training, Tencent.
+- 2015&2018 Outstanding Graduate, Beihang University.
+- 2015 Excellent Student Cadres, Beihang University.
+- 2014 National Scholarship, Beihang University.
+- 2014 Second Prize in the 24th “Feng Ru Cup” Competition of Academic and Technological Works, Beihang University.
+- 2013-2016 First Prize Academic Award, Beihang University.
+- 2011&2013 Merit Student, Beihang University.
 
 
 ## Hobbies
