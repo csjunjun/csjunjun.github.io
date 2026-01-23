@@ -1,13 +1,12 @@
 ---
 title: About Jun Liu
-feature_text: |
-  ## 
-  I know we can do
+feature_text: | 
+  Nice to meet you
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-I am is currently a Postdoctoral Researcher at the [Echizen Lab](https://research.nii.ac.jp/~iechizen/official/index-e.html), National Institute of Informatics (NII). I received my Ph.D. degree from the [State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/) of University of Macau, under the supervision of Prof. Jiantao Zhou. My primary research interests include adversarial attack methods and privacy-preserving technologies, as well as security and privacy issues across various areas of artificial intelligence.
+I am is currently a Postdoctoral Researcher at the [Echizen Lab](https://research.nii.ac.jp/~iechizen/official/index-e.html), National Institute of Informatics (NII). I received my Ph.D. degree from the [State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/) of University of Macau, under the supervision of Prof. [Jiantao Zhou]((https://www.fst.um.edu.mo/personal/jtzhou/)). My primary research interests include adversarial attack methods and privacy-preserving technologies, as well as security and privacy issues across various areas of artificial intelligence.
 
 I obtained both my B.S. and M.S. degrees in Software Engineering from Beihang University. After completing my master’s degree, I worked for two years at Tencent Shenzhen, where I focused on data analysis and machine learning modeling for financial risk control.
 
@@ -25,7 +24,7 @@ Researchers and students who are interested in my research topics are very welco
 - **J. Liu**, [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [H. Wu](https://faculty.uestc.edu.cn/wuhaiwei/en/index.htm), W. Sun, [J. Tian](https://jinyutian.github.io/). [Generating robust adversarial examples against online social networks (osns)](https://dl.acm.org/doi/10.1145/3632528). **ACM TOMM** 2024.
 - [H. Wu](https://faculty.uestc.edu.cn/wuhaiwei/en/index.htm), [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [J. Tian](https://jinyutian.github.io/), **J. Liu**, [Y. Qiao](https://mmlab.siat.ac.cn/yuqiao/). [Robust image forgery detection against transmission over online social networks](https://ieeexplore.ieee.org/document/9686650/). **IEEE TIFS** 2022.
 - [H. Wu](https://faculty.uestc.edu.cn/wuhaiwei/en/index.htm), [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [J. Tian](https://jinyutian.github.io/), **J. Liu**. [Robust image forgery detection over online social network shared images](https://ieeexplore.ieee.org/document/9879161). **CVPR** 2022.
-- W. Sun, [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [L. Dong](https://nbudongli.github.io/), [J. Tian](https://jinyutian.github.io/), **J. Liu**. [Optimal pre-filtering for improving Facebook shared images] (https://ieeexplore.ieee.org/document/9477083). **IEEE TIP** 2021. 
+- W. Sun, [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [L. Dong](https://nbudongli.github.io/), [J. Tian](https://jinyutian.github.io/), **J. Liu**. [Optimal pre-filtering for improving Facebook shared images.](https://ieeexplore.ieee.org/document/9477083) **IEEE TIP** 2021. 
 
 
 ## Academic Service
