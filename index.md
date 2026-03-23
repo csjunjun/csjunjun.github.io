@@ -18,14 +18,15 @@ Researchers and students who are interested in my research topics are very welco
 ## Publications
 
 - **J. Liu**, [L. Y. Zhang](https://leozhangcs.github.io/), F. Li, [I. Echizen](https://research.nii.ac.jp/~iechizen/official/members_echizen-e.html), [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/). [Gradient Structure Estimation under Label-Only Oracles via Spectral Sensitivity.](https://arxiv.org/abs/2601.14300) Arxiv 2025.
-- **J. Liu**, [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [J. Zeng](https://zengjiandian.github.io/), [J. Tian](https://jinyutian.github.io/), Z. Li. [DifAttack++: Query-Efficient Black-Box Adversarial Attack via Hierarchical Disentangled Feature Space in Cross-Domain.](https://arxiv.org/abs/2406.03017) Arxiv 2025.
+- **J. Liu**, [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [J. Zeng](https://zengjiandian.github.io/), [J. Tian](https://jinyutian.github.io/), [I. Echizen](https://research.nii.ac.jp/~iechizen/official/members_echizen-e.html). [DifAttack++: Query-Efficient Black-Box Adversarial Attack via Hierarchical Disentangled Feature Space in Cross-Domain.](https://arxiv.org/abs/2406.03017) Arxiv 2025.
 - **J. Liu**, [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [J. Zeng](https://zengjiandian.github.io/), [J. Tian](https://jinyutian.github.io/). [Difattack: Query-efficient black-box adversarial attack via disentangled feature space](https://ojs.aaai.org/index.php/AAAI/article/view/28156). **AAAI** 2024.
 - **J. Liu**, [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [J. Tian](https://jinyutian.github.io/), W. Sun. [Recoverable privacy-preserving image classification through noise-like adversarial examples](https://dl.acm.org/doi/10.1145/3653676). **ACM TOMM** 2024.
 - **J. Liu**, [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [H. Wu](https://faculty.uestc.edu.cn/wuhaiwei/en/index.htm), W. Sun, [J. Tian](https://jinyutian.github.io/). [Generating robust adversarial examples against online social networks (osns)](https://dl.acm.org/doi/10.1145/3632528). **ACM TOMM** 2024.
-- K. Li, ..., **J. Liu**, LLM Unlearning with LLM Beliefs. **ICLR** 2026.
+- K. Li, ..., **J. Liu**, et al. [LLM Unlearning with LLM Beliefs](https://openreview.net/forum?id=qCfYOLAzti). **ICLR** 2026.
 - [H. Wu](https://faculty.uestc.edu.cn/wuhaiwei/en/index.htm), [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [J. Tian](https://jinyutian.github.io/), **J. Liu**, [Y. Qiao](https://mmlab.siat.ac.cn/yuqiao/). [Robust image forgery detection against transmission over online social networks](https://ieeexplore.ieee.org/document/9686650/). **IEEE TIFS** 2022.
 - [H. Wu](https://faculty.uestc.edu.cn/wuhaiwei/en/index.htm), [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [J. Tian](https://jinyutian.github.io/), **J. Liu**. [Robust image forgery detection over online social network shared images](https://ieeexplore.ieee.org/document/9879161). **CVPR Oral** 2022.
-- W. Sun, [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [L. Dong](https://nbudongli.github.io/), [J. Tian](https://jinyutian.github.io/), **J. Liu**. [Optimal pre-filtering for improving Facebook shared images.](https://ieeexplore.ieee.org/document/9477083) **IEEE TIP** 2021. 
+- W. Sun, [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [L. Dong](https://nbudongli.github.io/), [J. Tian](https://jinyutian.github.io/), **J. Liu**. [Optimal pre-filtering for improving Facebook shared images.](https://ieeexplore.ieee.org/document/9477083) **IEEE TIP** 2021.
+- C. Zhu, M. Wang, **J. Liu**, I. Echizen. [EvoGuard: An Extensible Agentic RL-based Framework for Practical and Evolving AI-Generated Image Detection](https://arxiv.org/abs/2603.17343)
 
 
 ## Academic Service
