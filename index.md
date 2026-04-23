@@ -13,7 +13,7 @@ I obtained both my B.S. and M.S. degrees in Software Engineering from Beihang Un
 Researchers and students who are interested in my research topics are very welcome to get in touch for discussion and collaboration.
 
 
-{% include button.html text="GitHub" icon="github" link="https://github.com/csjunjun" color="#0366d6" %} {% include button.html text="LinkedIn" link="https://www.linkedin.com/in/%E9%9A%BD-%E5%88%98-a442a2b7/" color="#f68140" %} {% include button.html text="Email" icon="email" link="mailto:junlwind@163.com" color="#0d94e7" %} 
+{% include button.html text="GitHub" icon="github" link="https://github.com/csjunjun" color="#0366d6" %} {% include button.html text="LinkedIn" link="https://www.linkedin.com/in/%E9%9A%BD-%E5%88%98-a442a2b7/" color="#f68140" %} {% include button.html text="Email" icon="email" link="mailto:junlwind@163.com" color="#0d94e7" %} {% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=wz0tjdwAAAAJ&hl=en" color="#f68140"}
 
 ## Publications
 
