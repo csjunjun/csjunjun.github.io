@@ -17,7 +17,7 @@ Researchers and students who are interested in my research topics are very welco
 
 ## Publications
 
-- **J. Liu**, [L. Y. Zhang](https://leozhangcs.github.io/), F. Li, [I. Echizen](https://research.nii.ac.jp/~iechizen/official/members_echizen-e.html), [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/). [Gradient Structure Estimation under Label-Only Oracles via Spectral Sensitivity.](https://arxiv.org/abs/2601.14300) Arxiv 2025.
+- **J. Liu**, [L. Y. Zhang](https://leozhangcs.github.io/), F. Li, [I. Echizen](https://research.nii.ac.jp/~iechizen/official/members_echizen-e.html), [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/). [Low-Cost Hard-Label Adversarial Attack with Theoretical Foundations.](https://arxiv.org/abs/2601.14300) USENIX Security 2026 Cycle 2.
 - **J. Liu**, [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [J. Zeng](https://zengjiandian.github.io/), [J. Tian](https://jinyutian.github.io/), [I. Echizen](https://research.nii.ac.jp/~iechizen/official/members_echizen-e.html). [DifAttack++: Query-Efficient Black-Box Adversarial Attack via Hierarchical Disentangled Feature Space in Cross-Domain.](https://arxiv.org/abs/2406.03017) Arxiv 2025.
 - **J. Liu**, [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [J. Zeng](https://zengjiandian.github.io/), [J. Tian](https://jinyutian.github.io/). [Difattack: Query-efficient black-box adversarial attack via disentangled feature space](https://ojs.aaai.org/index.php/AAAI/article/view/28156). **AAAI** 2024.
 - **J. Liu**, [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [J. Tian](https://jinyutian.github.io/), W. Sun. [Recoverable privacy-preserving image classification through noise-like adversarial examples](https://dl.acm.org/doi/10.1145/3653676). **ACM TOMM** 2024.
