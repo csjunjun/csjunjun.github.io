@@ -27,7 +27,7 @@ Researchers and students who are interested in my research topics are very welco
 - [H. Wu](https://faculty.uestc.edu.cn/wuhaiwei/en/index.htm), [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [J. Tian](https://jinyutian.github.io/), **J. Liu**. [Robust image forgery detection over online social network shared images](https://ieeexplore.ieee.org/document/9879161). **CVPR Oral** 2022.
 - W. Sun, [J. Zhou](https://www.fst.um.edu.mo/personal/jtzhou/), [L. Dong](https://nbudongli.github.io/), [J. Tian](https://jinyutian.github.io/), **J. Liu**. [Optimal pre-filtering for improving Facebook shared images.](https://ieeexplore.ieee.org/document/9477083) **IEEE TIP** 2021.
 - C. Zhu, M. Wang, **J. Liu**, I. Echizen. [EvoGuard: An Extensible Agentic RL-based Framework for Practical and Evolving AI-Generated Image Detection](https://arxiv.org/abs/2603.17343). Arxiv 2026.
-- B. Bok, F. Waseda, **J. Liu**, I. Echizen. [Rethinking Brain Decoding with CLIP: The Role of Adversarial] Robustness(https://arxiv.org/abs/2607.03165). Arxiv 2026.
+- B. Bok, F. Waseda, **J. Liu**, I. Echizen. [Rethinking Brain Decoding with CLIP: The Role of Adversarial Robustness](https://arxiv.org/abs/2607.03165). Arxiv 2026.
 
 
 ## Academic Service
