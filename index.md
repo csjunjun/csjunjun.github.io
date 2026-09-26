@@ -45,7 +45,8 @@ Researchers and students who are interested in my research topics are very welco
 - European Conference on Computer Vision. (ECCV)
 - ACM International Conference on Multimedia. (ACM MM)
 - The Association for the Advancement of Artificial Intelligence (AAAI)
-
+- International Conference on Learning Representations (ICLR)
+- Neural Information Processing Systems (NeurIPS)
 
 ## Rewards
 - 2022 H. Wu, J. Zhou, **J. Liu**, W. Sun. Championship in Forgery Detection Competition, 1/1561, Participant, Security AI Challenger, hosted by Alibaba and Tsinghua University. 
